@@ -1,0 +1,5 @@
+{
+	"ConnectionStrings": {
+		"TaskContextDb": "Data Source=(localdb)\\ProjectsV13;Initial Catalog=Task;Integrated Security=True;Connect Timeout=30; MultipleActiveResultSets=true;"
+	}
+}
